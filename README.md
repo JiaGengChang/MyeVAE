@@ -222,4 +222,4 @@ No GPU is required.
 
 If you use MyeVAE in your research, please consider citing:
 
-Jia Geng Chang, Jianbin Chen, Guo-Liang Chew, Wee Joo Chng. *MyeVAE: a multi-modal variational autoencoder for risk profiling of newly diagnosed multiple myeloma*. 2 May 2025. Manuscript under review.
+Chang, J.G., Chen, J., Chew, GL. et al. MyeVAE: a multi-modal variational autoencoder for risk profiling of newly diagnosed multiple myeloma. BMC Artif. Intell. 1, 8 (2025). https://doi.org/10.1186/s44398-025-00009-2
